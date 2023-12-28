@@ -1,5 +1,5 @@
 ## 💻 Apresentação
-Me chamo Jhonatan Willian, tenho 27 anos e sou um amante da técnologia e jogos. Gosto de aprender coisas novas, tenho muita curiosidade e busco uma oportunidade para me desenvolver mais!
+Me chamo Jhonatan Willian, tenho 28 anos e sou um amante da técnologia e jogos. Gosto de aprender coisas novas, tenho muita curiosidade e busco uma oportunidade para me desenvolver mais!
 
 ## 📚 Formação
 - Estudando **Análise e Desenvolvimento de Sistemas** na Estácio, iniciei em 2023;
